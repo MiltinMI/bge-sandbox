@@ -15,7 +15,7 @@ Prerequirements:
   
 Running the game:
 
-  1. Download the respitory
+  1. Download the repository
   2. Unzip the file
   3. Open jobbig.blend in Blender.
   4. Have fun
