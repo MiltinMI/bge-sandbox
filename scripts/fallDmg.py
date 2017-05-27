@@ -1,5 +1,4 @@
 import bge
-import bpy
 controller = bge.logic.getCurrentController()
 scene = bge.logic.getCurrentScene()
 obj = controller.owner
