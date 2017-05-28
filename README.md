@@ -13,7 +13,7 @@ Licensed under Creative Commons: By Attribution 3.0 License
 http://creativecommons.org/licenses/by/3.0/
 
 # How-To test/play
-Prerequirements:
+Prerequisites:
 
   Blender v2.76+
   
@@ -24,5 +24,6 @@ Running the game:
   1. Download the repository
   2. Unzip the file
   3. Open jobbig.blend in Blender.
-  4. Have fun
+  4. Click "Find missing files" and refer to project directory if all textures are pink.
+  5. Have fun
   
