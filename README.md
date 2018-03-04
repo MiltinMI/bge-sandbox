@@ -21,7 +21,7 @@ Prerequisites:
   
 Running the game:
 
-  1. Download the repository
+  1. Clone the repository
   2. Unzip the file
   3. Open jobbig.blend in Blender.
   4. Click "Find missing files" and refer to project directory if all textures are pink.
